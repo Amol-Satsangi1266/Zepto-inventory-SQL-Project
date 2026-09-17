@@ -148,6 +148,3 @@ This project includes:
 - MongoDB Integration
 - Advanced Query Optimization
 
----
-SIGN - Amol Satsangi 
----
